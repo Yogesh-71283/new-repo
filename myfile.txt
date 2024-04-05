@@ -1,0 +1,18 @@
+this is my file
+1) after installation of git please create one empty folder (yournam_learnbay) in any drive
+2) go inside the empty folder --> right click --> git bash --> plese click git bash
+3) you will get black open window
+
+4 ) git config  --global user.name "<your name>"
+
+5) git config  --global user.email "<your email>"
+
+6) git init
+
+7) create one file with name "login" in the empty folder --> 
+
+8) git add login.txt
+
+9) git commit -m "adding login.txt"
+
+10) git status
